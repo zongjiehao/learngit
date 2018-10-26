@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 git
 Git tracks changes of file.
 Git third edit.
+My stupid boss still prefer SVN.
